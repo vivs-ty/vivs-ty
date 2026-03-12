@@ -1,49 +1,122 @@
-# Hi there, I’m Vivesh 👋  
+<!-- README.md -->
 
-### 🚀 About Me  
-I’m a **Cloud Enthusiast & DevOps Practitioner** passionate about building, automating, and scaling systems in the cloud. I enjoy working with cutting-edge tools and contributing to open-source projects.  
+<h1 align="center">Hi 👋, I'm Vivesh</h1>
 
----
+<p align="center">
+🚀 Cloud Enthusiast | ⚙️ DevOps Practitioner | ☁️ Automation Lover
+</p>
 
-### 🛠️ Skills & Tools  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=google-cloud&logoColor=white)
-![Shell](https://img.shields.io/badge/-Shell_Scripting-4EAA25?logo=gnu-bash&logoColor=white)
-![Ansible](https://img.shields.io/badge/-Ansible-EE0000?logo=ansible&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logo=terraform&logoColor=white)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Vivesh+Tyagi;Cloud+%7C+DevOps+Engineer;Infrastructure+Automation;Open+Source+Enthusiast" />
+</p>
 
----
-
-### 🌱 What I’m Exploring  
-Currently diving deeper into **cloud-native technologies** and expanding my expertise in **infrastructure automation**.  
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=vivs-ty&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-### 🤝 Let’s Collaborate  
-I’m open to collaborating on **open-source DevOps, Cloud, and Infrastructure as Code projects**.  
+# 🚀 About Me
+
+- ☁️ Passionate about **Cloud Computing & DevOps**
+- 🔧 Love building **automated infrastructure**
+- 🌍 Interested in **open-source collaboration**
+- 📈 Always learning **cloud-native technologies**
 
 ---
 
-### 📫 How to Reach Me  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/vivs-ty)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://in.linkedin.com/in/vivesh-tyagi-9085a9a9)
+# 🛠 Tech Stack
+
+### ☁️ Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+### ⚙️ DevOps
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+
+### 🧑‍💻 Scripting & Tools
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-### ⚡ Fun Fact  
-When I’m not exploring tech, you’ll find me solving **puzzles** or experimenting with **new recipes** 🍲🧩.  
+# 🧰 Tools I Use
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,gcp,terraform,ansible,linux,bash,git,docker,kubernetes,vscode" />
+</p>
 
 ---
 
-### 📊 GitHub Stats & Activity  
+# 🌱 Currently Learning
 
-![Vivesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vivs-ty&show_icons=true&theme=tokyonight)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vivs-ty&layout=compact&theme=tokyonight)  
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vivs-ty&theme=tokyonight)  
+- Kubernetes ☸️  
+- Advanced **Infrastructure as Code**  
+- **Cloud Native Architecture**
 
 ---
 
-✨ *“Always learning, always building.”*  
+# 🤝 Open to Collaborate
+
+💡 I'm interested in collaborating on:
+
+- DevOps automation tools  
+- Cloud infrastructure projects  
+- Open-source DevOps utilities  
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=vivs-ty&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vivs-ty&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivs-ty&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vivs-ty&theme=tokyo-night" />
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/vivs-ty">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://in.linkedin.com/in/vivesh-tyagi-9085a9a9">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
+</a>
+
+</p>
+
+---
+
+# ⚡ Fun Fact
+
+🧩 I love solving **puzzles** and experimenting with **new recipes** 🍲  
+
+---
+
+<p align="center">
+✨ <b>Always learning. Always building.</b> ✨
+</p>

@@ -44,7 +44,7 @@
 # 🧰 Tools I Use
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=aws,gcp,terraform,ansible,linux,bash,git,docker,kubernetes,vscode" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,terraform,ansible,linux,bash,git,docker,kubernetes,vscode,python" />
 </p>
 
 ---

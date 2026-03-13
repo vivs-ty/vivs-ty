@@ -73,7 +73,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=vivs-ty&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vivs-ty&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com/?user=vivs-ty&theme=tokyonight&hide_border=true"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivs-ty&layout=compact&theme=tokyonight&hide_border=true"/>
 

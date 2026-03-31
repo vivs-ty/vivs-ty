@@ -1,3 +1,4 @@
+<!-- markdownlint-disable MD033 -->
 <!-- README.md -->
 
 <div align="center">

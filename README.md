@@ -28,6 +28,7 @@ focus:
   - GitOps workflows & Platform Engineering
   - Open-source DevOps tooling
 motto:    "Automate everything. Break nothing."
+rr :      "Break the Process, Automate the Outcome."
 ```
 
 ---

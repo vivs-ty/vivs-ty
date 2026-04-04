@@ -83,7 +83,13 @@ rr :      "Break the Process, Automate the Outcome."
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vivs-ty&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vivs-ty&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vivs-ty&theme=tokyonight" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vivs-ty&theme=tokyonight&utcOffset=5.5" />
 </div>
 
 <div align="center">
@@ -91,7 +97,9 @@ rr :      "Break the Process, Automate the Outcome."
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivs-ty&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vivs-ty&theme=tokyonight" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vivs-ty&theme=tokyonight" />
 </div>
 
 ---
@@ -99,7 +107,7 @@ rr :      "Break the Process, Automate the Outcome."
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vivs-ty&theme=tokyonight&no-frame=true&margin-w=4&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vivs-ty&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" />
 </div>
 
 ---

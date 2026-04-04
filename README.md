@@ -93,7 +93,7 @@ rr :      "Break the Process, Automate the Outcome."
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=vivs-ty&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=vivs-ty&theme=tokyonight&hide_border=true&timezone=Asia%2FKolkata&date_format=M%20j%5B%2C%20Y%5D" />
 </div>
 
 <div align="center">
@@ -107,7 +107,7 @@ rr :      "Break the Process, Automate the Outcome."
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vivs-ty&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vivs-ty&theme=tokyonight&no-frame=true&margin-w=4&margin-h=4&column=-1" />
 </div>
 
 ---

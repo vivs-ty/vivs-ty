@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Cloud+%26+DevOps+Engineer+%E2%98%81%EF%B8%8F;Infrastructure+as+Code+Practitioner;Kubernetes+%26+Container+Orchestration;GitOps+%7C+Platform+Engineering;Open+Source+Contributor" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Cloud+%26+DevOps+Engineer+%E2%98%81%EF%B8%8F;Infrastructure+as+Code+Practitioner;Kubernetes+%26+Container+Orchestration;GitOps+%7C+Platform+Engineering;Open+Source+Contributor" />
 </div>
 
 <div align="center">
@@ -83,7 +83,7 @@ rr :      "Break the Process, Automate the Outcome."
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.as93.net/api?username=vivs-ty&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vivs-ty&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 </div>
 
 <div align="center">
@@ -91,7 +91,7 @@ rr :      "Break the Process, Automate the Outcome."
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.as93.net/api/top-langs/?username=vivs-ty&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivs-ty&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
@@ -114,8 +114,14 @@ rr :      "Break the Process, Automate the Outcome."
 
 ## 🐍 Contribution Snake
 
+> ⚙️ Generated via GitHub Actions using [Platane/snk](https://github.com/Platane/snk). Add the workflow to your repo to enable this.
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/vivs-ty/vivs-ty/output/github-contribution-grid-snake-dark.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vivs-ty/vivs-ty/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vivs-ty/vivs-ty/output/github-contribution-grid-snake.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/vivs-ty/vivs-ty/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
 ---

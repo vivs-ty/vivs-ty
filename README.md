@@ -104,10 +104,18 @@ rr :      "Break the Process, Automate the Outcome."
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vivs-ty&theme=tokyonight&no-frame=true&margin-w=4&margin-h=4&column=-1" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vivs-ty&theme=tokyonight" />
+</div>
+
+<div align="center">
+
+  ![Stars](https://img.shields.io/github/stars/vivs-ty?style=for-the-badge&color=00F7FF&labelColor=0d1117&label=Total%20Stars)
+  ![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fvivs-ty&query=%24.public_repos&style=for-the-badge&color=00F7FF&labelColor=0d1117&label=Public%20Repos)
+  ![Followers](https://img.shields.io/github/followers/vivs-ty?style=for-the-badge&color=00F7FF&labelColor=0d1117)
+
 </div>
 
 ---

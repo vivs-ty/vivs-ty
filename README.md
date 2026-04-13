@@ -93,7 +93,7 @@ rr :      "Break the Process, Automate the Outcome."
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=vivs-ty&theme=tokyonight&hide_border=true&timezone=Asia%2FKolkata&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://streak-stats.demolab.com/?user=vivs-ty&theme=tokyonight&hide_border=true&timezone=Asia%2FKolkata&date_format=M%20j%5B%2C%20Y%5D&v=20260413" />
 </div>
 
 <div align="center">
